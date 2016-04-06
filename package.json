@@ -1,0 +1,27 @@
+{
+  "name": "basicangularapp",
+  "version": "0.1.0",
+  "description": "Basic Angular App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthaprince/basicAngularApp.git"
+  },
+  "author": "samantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanthaprince/basicAngularApp/issues"
+  },
+  "homepage": "https://github.com/samanthaprince/basicAngularApp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  }
+}
